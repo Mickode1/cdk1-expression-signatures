@@ -1,2 +1,6 @@
 # breast-cancer-expression-signatures
+
+
+![CDK1 Network](Breast_Cancer_Network.jpg)
+
 Comprehensive analysis of breast cancer transcriptomic data, focusing on the identification of differentially expressed genes across tumor and normal tissues. This project includes statistical modeling, visualization, and pathway enrichment to uncover potential biomarkers and therapeutic targets.
